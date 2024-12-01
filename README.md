@@ -5,7 +5,7 @@ Supported GPUs: Nivida RTX 4080, ASUS RUF, GIGABYTE GV-N1030D4-2GL GeForce GT 10
 
 Supported firmware: Ubuntu 24.04, ubuntu 18.04, windows 10 home, windows 11
 
-
+---------------------------------------------------------------------------
 
  GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
